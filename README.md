@@ -10,3 +10,8 @@ Explore their public repositories, including names, descriptions, and stars.
 
 🛠️ We used Kotlin and the awesome GitHub API to make this happen. It's user-friendly and simple to use.
 
+<p align="center">
+
+<video src="https://github.com/asgar72/GitProfiler/assets/85785487/d324f18f-bb94-48fa-9eef-bd178c4b510d" alt="alt text" width="300 ">
+
+</p>
